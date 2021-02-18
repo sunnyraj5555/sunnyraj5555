@@ -6,7 +6,7 @@ Hello I am Sunny Raj 👋
 
 - 🔭 I’m currently working on My new Project
 
-- 🌱 I’m currently learning HTML5, CSS, JAVASCRIPT
+- 🌱 I’m currently learning JAVASCRIPT,Jquery.
 
 - 👯 I’m looking to collaborate on Web Development project
 
