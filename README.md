@@ -1,4 +1,4 @@
-Hello I am Sunny Raj 👋
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, SUNNY Here!</h1>
 <a href="https://in.linkedin.com/in/sunny-raj-771526190">
     <img alt="Sunny's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a>
 
