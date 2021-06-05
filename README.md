@@ -35,8 +35,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sunnyraj5555&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<a href="https://in.linkedin.com/in/sunny-raj-771526190">
-    <img alt="Sunny's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a>
-
 <img display="inline" width=45% height=200px src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunnyraj5555&layout=compact&theme=blue-green">
 
+<br/>
+
+[![Sunny Raj's github activity graph](https://activity-graph.herokuapp.com/graph?username=sunnyraj5555&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<br/>
+<br/>
+
+## Connect with me:
+<a href="https://in.linkedin.com/in/sunny-raj-771526190">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/sunnyraj55555/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
