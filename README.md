@@ -31,12 +31,12 @@
     </p>
  
     
-## 📈 **My Github Stats:**
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sunnyraj5555&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img display="inline" width=45% height=200px src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunnyraj5555&layout=compact&theme=blue-green">
-
+</p>
 <br/>
 
 [![Sunny Raj's github activity graph](https://activity-graph.herokuapp.com/graph?username=sunnyraj5555&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
