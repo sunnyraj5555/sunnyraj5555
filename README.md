@@ -46,6 +46,16 @@
 <br/>
 
 ## Connect with me:
+<p align="left">
 <a href="https://in.linkedin.com/in/sunny-raj-771526190">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/sunnyraj55555/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sunnyraj5555">
+</a>
+<a href="https://github.com/sunnyraj5555?tab=followers"><img src="https://img.shields.io/github/followers/sunnyraj5555?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
