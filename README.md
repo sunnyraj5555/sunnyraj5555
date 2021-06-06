@@ -47,9 +47,10 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://in.linkedin.com/in/sunny-raj-771526190">
+<a href="https://www.linkedin.com/in/sunnyraj55555/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/sunnyraj55555/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/sunnyraj55555/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
