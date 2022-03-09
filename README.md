@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: "There are more possible iterations of a game of chess than there are atoms in the known universe"
 
-- 📫 How to reach me **sr55555sun@gmail.com**
+- 📫 How to reach me **rajsunnyofficial@gmail.com**
 
 <p align="center">
     <a href="https://github.com/sunnyraj5555/github-readme-streak-stats">
