@@ -3,11 +3,11 @@
 
 ## About Me
 
-- 🔭 I’m currently working on My new WebSite For **headheal**
+- 🔭 I’m currently working as Generative AI Engineer at **LTIMindtree**
 
-- 👯 I’m looking to collaborate on **Web Development project**
+- 👯 I’m looking to collaborate on **Data Science or AI related Project**
 
-- 💬 Ask me about Graphic Designing, Frontend Development and any technical Stuff
+- 💬 Ask me about Generative AI, Frontend Development and any technical Stuff
 
 - ⚡ Fun fact: "There are more possible iterations of a game of chess than there are atoms in the known universe"
 
